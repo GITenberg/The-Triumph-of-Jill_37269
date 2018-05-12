@@ -1,0 +1,31 @@
+_repo: The-Triumph-of-Jill_37269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, F. E. Mills (Florence Ethel Mills)
+    aliases:
+    - Young, Florence Ethel Mills
+    - Young, F.E. Mills
+    birthdate: 1875
+    gutenberg_agent_id: '38732'
+    url: http://www.gutenberg.org/2009/agents/38732
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Art teachers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+title: The Triumph of Jill
+url: http://www.gutenberg.org/ebooks/37269
